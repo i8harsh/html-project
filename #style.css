@@ -1,0 +1,12 @@
+body
+{
+    font-style: oblique;background-color: rgb(7, 247, 39);border: blueviolet;
+}
+h1
+{
+    font-style: italic;font-size:large;color: rgb(247, 9, 171);
+}
+p
+{
+    border: 7px;text-align: center;text-decoration: solid;
+}
